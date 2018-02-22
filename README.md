@@ -14,7 +14,6 @@
 <h3>輸入頁面</h3>
 
 ![img1](https://github.com/hankjojo/TrackYourSpending/blob/master/Sources/TrackYourSpending_2.gif)
-
 ![img2](https://github.com/hankjojo/TrackYourSpending/blob/master/Sources/TrackYourSpending_3.gif)
 <br/>
 錯誤訊息為SwiftMessages
